@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/itadmin/RestTest/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.mm \
+  /Users/itadmin/RestTest/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h \
+  /Users/itadmin/RestTest/node_modules/react-native/React/Base/RCTDefines.h
